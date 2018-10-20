@@ -1,0 +1,27 @@
+﻿生成启动时间为 2018/4/8 19:39:44。
+     1>项目“E:\比特作业\数据结构\链表的基本操作\链表的基本操作\链表的基本操作.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\比特人\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt test.c
+         test.c
+     1>e:\比特作业\数据结构\链表的基本操作\链表的基本操作\test.c(56): warning C4047: “=”:“DataType”与“void *”的间接级别不同
+     1>e:\比特作业\数据结构\链表的基本操作\链表的基本操作\test.c(75): warning C4047: “=”:“DataType”与“void *”的间接级别不同
+     1>e:\比特作业\数据结构\链表的基本操作\链表的基本操作\test.c(150): warning C4033: “SListSize”必须返回值
+     1>e:\比特作业\数据结构\链表的基本操作\链表的基本操作\test.c(160): warning C4033: “SListSize”必须返回值
+     1>e:\比特作业\数据结构\链表的基本操作\链表的基本操作\test.c(183): warning C4047: “=”:“DataType”与“void *”的间接级别不同
+     1>e:\比特作业\数据结构\链表的基本操作\链表的基本操作\test.c(202): warning C4033: “SListBack”必须返回值
+     1>e:\比特作业\数据结构\链表的基本操作\链表的基本操作\test.c(327): warning C4028: 形参 1 与声明不同
+     1>e:\比特作业\数据结构\链表的基本操作\链表的基本操作\test.c(335): warning C4033: “ReverseSListOP”必须返回值
+     1>e:\比特作业\数据结构\链表的基本操作\链表的基本操作\test.c(94): warning C4715: “SListFind”: 不是所有的控件路径都返回值
+     1>e:\比特作业\数据结构\链表的基本操作\链表的基本操作\test.c(161): warning C4716: “SListSize”: 必须返回一个值
+     1>e:\比特作业\数据结构\链表的基本操作\链表的基本操作\test.c(210): warning C4715: “SListBack”: 不是所有的控件路径都返回值
+     1>e:\比特作业\数据结构\链表的基本操作\链表的基本操作\test.c(340): warning C4716: “ReverseSListOP”: 必须返回一个值
+     1>e:\比特作业\数据结构\链表的基本操作\链表的基本操作\test.c(426): warning C4716: “DeleteLastKNode”: 必须返回一个值
+       Link:
+         E:\比特人\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\比特作业\数据结构\链表的基本操作\Debug\链表的基本操作.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\比特作业\数据结构\链表的基本操作\Debug\链表的基本操作.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\比特作业\数据结构\链表的基本操作\Debug\链表的基本操作.lib" /MACHINE:X86 Debug\test.obj
+         "Debug\链表的基本操作.obj"
+         链表的基本操作.vcxproj -> E:\比特作业\数据结构\链表的基本操作\Debug\链表的基本操作.exe
+     1>已完成生成项目“E:\比特作业\数据结构\链表的基本操作\链表的基本操作\链表的基本操作.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.60
